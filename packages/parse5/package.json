@@ -2,7 +2,7 @@
     "name": "parse5-ns",
     "type": "module",
     "description": "My non-standard fork of parse5, the HTML parser and serializer.",
-    "version": "6.0.1",
+    "version": "6.0.2",
     "author": "Ashtar Paniagua <ashtarcodes@gmail.com",
     "contributors": "Ivan Nikulin <ifaaan@gmail.com> (https://github.com/inikulin)",
     "homepage": "https://github.com/inikulin/parse5",
