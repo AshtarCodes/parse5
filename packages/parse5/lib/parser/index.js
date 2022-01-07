@@ -317,7 +317,7 @@ const TOKEN_HANDLERS = {
 };
 
 //Parser
-export class Parser {
+export default class Parser {
     constructor(options) {
         this.options = mergeOptions(DEFAULT_OPTIONS, options);
 

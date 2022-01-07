@@ -1,4 +1,4 @@
-import { Parser } from './parser/index.js';
+import Parser from './parser/index.js';
 import { Serializer } from './serializer/index.js';
 
 // Shorthands
